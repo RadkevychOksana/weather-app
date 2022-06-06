@@ -1,8 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Inconsolata&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap");
 body {
-  font-family: "Inconsolata", monospace;
-}
-.wrapper {
-  width: 700px;
-  margin: auto;
+  font-family: "Source Code Pro", monospace;
 }
